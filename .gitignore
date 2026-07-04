@@ -1,0 +1,14 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+.vs/
+x64/
+Debug/
+Release/
+*.ipch
+*.db
+*.obj
+*.exe
+*.pdb
+/.vs/Porphyrogennitos_Comp_1_220626.slnx
