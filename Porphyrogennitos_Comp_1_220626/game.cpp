@@ -19,7 +19,6 @@ std::string foeNames[] = { "Konnik", "Bagatur", "Bagain", "Cuman Cavalry", "Seka
 int currentFoeName = 9;
 std::string currentFoe = " ";
 int foeHp = 0, foeXp = 0, foeLevel = 0;
-int malakas = 0;
 
 //From Menu to Game Logic
 void startGame()

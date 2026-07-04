@@ -15,7 +15,6 @@ int main()
 	health = 100;
 	totalHealth = health;
 	maxHealth = totalHealth;
-	char nai = 'k';
 
 	MenuComp();
 	
