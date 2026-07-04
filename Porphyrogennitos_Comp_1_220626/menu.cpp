@@ -52,6 +52,7 @@ void mainMenu(int selected)
 //Complete main menu, with arrows and enter keys as selectors
 void MenuComp()
 {
+	playMusic();
 	int selected = 0;
 	
 	while (true)
