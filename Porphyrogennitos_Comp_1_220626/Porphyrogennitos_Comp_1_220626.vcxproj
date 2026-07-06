@@ -151,7 +151,6 @@
   </ItemGroup>
   <ItemGroup>
     <Image Include="..\x64\Release\porphyrogennitos.ico" />
-    <Image Include="C:\Users\nikka\Desktop\Porphyrogennitos\porphyrogennitos.png" />
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Porphyrogennitos_Comp_1_220626.rc" />

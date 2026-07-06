@@ -43,9 +43,6 @@
     <Image Include="..\x64\Release\porphyrogennitos.ico">
       <Filter>Resource Files</Filter>
     </Image>
-    <Image Include="C:\Users\nikka\Desktop\Porphyrogennitos\porphyrogennitos.png">
-      <Filter>Resource Files</Filter>
-    </Image>
   </ItemGroup>
   <ItemGroup>
     <ResourceCompile Include="Porphyrogennitos_Comp_1_220626.rc">
