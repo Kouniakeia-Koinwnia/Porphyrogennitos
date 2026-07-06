@@ -5,6 +5,8 @@
 #include <string> //for getline
 #include "game.h"
 #include "menu.h"
+#include <SFML/Graphics.hpp>
+
 
 int main()
 {
