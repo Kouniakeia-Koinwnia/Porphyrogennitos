@@ -286,7 +286,7 @@ void playMusic()
 {
 	if (musicEnabled)
 	{
-		PlaySound(TEXT("music.wav"), NULL, SND_ASYNC | SND_LOOP);
+		PlaySound(TEXT("D:\\Porphyrogennitos RPG\\Kouniakeia-Koinwnia\\music\\main_menu_theme.wav"), NULL, SND_ASYNC | SND_LOOP);
 		//SND_ASYNC = play in the background
 		//SND_LOOP = repeat indefinitely
 	}
