@@ -7,6 +7,7 @@
 #include "menu.h"
 #include <SFML/Graphics.hpp>
 
+int test;
 
 int main()
 {
